@@ -20,7 +20,8 @@ export interface PropertyProps {
       shower: string;
       occupants: string;
    };
-
+   
+   description: string
    image: string;
    discount: string;
 }
